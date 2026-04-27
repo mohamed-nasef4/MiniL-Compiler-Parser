@@ -1,7 +1,7 @@
-# MiniL Compiler Project - Phase 2
+# Tiny Compiler Project - Phase 2
 
 ## Overview
-This repository contains the second phase (Phase 2) of the MiniL compiler project, developed for the **Compiler Design & Theory (CS321)** course at **El-Shorouk Academy**. [cite_start]This phase focuses on implementing the Lexical Analyzer (Scanner) and the Syntax Analyzer (Parser) using C# to validate the structural correctness of the `minil` programming language .
+This repository contains the second phase (Phase 2) of the Tiny compiler project, developed for the **Compiler Design & Theory (CS321)** course at **El-Shorouk Academy**. [cite_start]This phase focuses on implementing the Lexical Analyzer (Scanner) and the Syntax Analyzer (Parser) using C# to validate the structural correctness of the `Tiny` programming language .
 
 ## Key Features
 * [cite_start]**Lexical Analysis (Scanner):** Tokenizes the source code into meaningful units (Lexemes) and classifies them into categories like Keywords, Identifiers, Numbers, and Operators .
@@ -26,7 +26,7 @@ This repository contains the second phase (Phase 2) of the MiniL compiler projec
 ## Installation & How to Run
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/mohamed-nasef4/MiniL-Compiler-Parser](https://github.com/mohamed-nasef4/MiniL-Compiler-Parser)
+    git clone https://github.com/mohamed-nasef4/Tiny-Compiler-Parser.git
     ```
 2.  **Open in Visual Studio:** Locate the `.sln` file and open it.
 3.  **Run the Application:** Press `F5` to build and start the program.
@@ -37,6 +37,7 @@ This repository contains the second phase (Phase 2) of the MiniL compiler projec
 | Name | Section | ID |
 | :--- | :--- | :--- |
 | Mohamed Ahmed Mohamed Abdullatif | 11 | 324243585 |
+| Saad Mohamed Saad | 6 | 324240250 |
 
 
 ---
